@@ -1,8 +1,9 @@
-# Welcome to My GitHub Pages 
+# <center>Welcome to My GitHub Pages</center>  
 
 
 
-## catalog
+
+## <center>catalog</center>
 
 #### [the design of shopping website's database](database.md)
 
