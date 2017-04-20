@@ -3,7 +3,7 @@
 
 ### catelog
 
-[first one](/two.md)
+[first one](two.md)
 ```markdown
 Syntax highlighted code block
 
