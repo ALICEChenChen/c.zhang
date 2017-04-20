@@ -1,30 +1,4 @@
 
 ###one
 
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Welcome</title>
-	</head>
-	<body>
-		<nav>
-    		
-		</nav>
-		<div class="container">
-    			<div class="blurb">
-				<h1><center>Welcome to my blog ! I'm Alice </ceneter></h1>
-    			</div><!-- /.blurb -->
-			<center><h2>List</h2></center>
-			<center><h4><a href="">1.the design of online shop's database<a></h4></center> 
-			<center><h4><a href="">2.the design of online shop's database<a></h4></center> 
-			<center><h4><a href="">3.the design of online shop's database<a></h4></center> 
-			<center><h4><a href="">4.the design of online shop's database<a></h4></center> 
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		mail to me:<li><a href="mailto:m18845078380@163.com">email</a></li>
-        		link to my Github:<li><a href="https://github.com/ALICEChenChen">github.com/ALICEChenChen</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+
